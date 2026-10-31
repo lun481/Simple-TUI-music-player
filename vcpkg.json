@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "terminal-music-player",
+  "version-string": "1.0.0",
+  "description": "A Windows terminal music player built with FTXUI and miniaudio.",
+  "dependencies": [
+    "ftxui",
+    "miniaudio"
+  ]
+}
